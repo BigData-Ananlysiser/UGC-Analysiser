@@ -2,9 +2,8 @@
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 
-### UGC-Analysiser，项目地址：[UGC-Analysiser](https://github.com/BigData-Ananlysiser/UGC-Analysiser)
+### [UGC-Analysiser](https://github.com/BigData-Ananlysiser/UGC-Analysiser)
 #### 一个开源的全栈大数据项目，主要包含实时数据采集/机器学习/大数据处理/前端可视化
-
 
 
 
