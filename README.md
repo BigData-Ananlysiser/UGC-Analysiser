@@ -11,3 +11,9 @@
 
 
 > 整个项目由CarryChang/17698753015/narutozhang123 三位联合发起，共同学习和进步，希望有更多的思想进行交流学习
+
+
+#### Reference 
+>1. [StockSensation](https://github.com/LinLidi/StockSensation)
+>2. [Real_Time_DataMining_Sortware](https://github.com/CarryChang/Real_Time_DataMining_Sortware)
+>3. [Customer_Satisfaction_Analysis](https://github.com/CarryChang/Customer_Satisfaction_Analysis)
