@@ -9,13 +9,14 @@
 > 首页定义：由数据大盘和搜索框，功能完全开放，不登录即可使用内容
 
 > 首页样式
-<div align=center><img  src="https://github.com/BigData-Ananlysiser/UGC-Analysiser/tree/master/sys_structure/index_page.png"></div>
+<div align=center><img  src="https://github.com/BigData-Ananlysiser/UGC-Analysiser/blob/master/sys_structure/index_page.png"></div>
+
 
 #### 系统架构
 > 架构定义了项目的前端/中台/后端的组成 
 
 >  架构内容
-<div align=center><img  src="https://github.com/BigData-Ananlysiser/UGC-Analysiser/tree/master/sys_structure/sys_structure.png"></div>
+<div align=center><img  src="https://github.com/BigData-Ananlysiser/UGC-Analysiser/blob/master/sys_structure/sys_structure.png"></div>
  
 
 #### 系统流程
