@@ -7,6 +7,33 @@
 
 
 
+#### 页面编排
+> 首页定义：由数据大盘和搜索框，功能完全开放，不登录即可使用内容
+
+> 1.  首页样式
+<div align=center><img  src="https://github.com/CarryChang/Real_Time_DataMining_Sortware/blob/master/pic/meituan.png"></div>
+ 
+
+
+#### 系统架构
+> 架构定义了项目的前端/中台/后端的组成 
+
+>  架构内容
+<div align=center><img  src="https://github.com/CarryChang/Real_Time_DataMining_Sortware/blob/master/pic/meituan.png"></div>
+ 
+
+#### 系统流程
+> 系统流程定义了项目中的数据处理流程
+
+>  系统流程
+<div align=center><img  src="https://github.com/CarryChang/Real_Time_DataMining_Sortware/blob/master/pic/meituan.png"></div>
+ 
+
+
+
+
+
+
 
 
 > 整个项目由CarryChang/17698753015/narutozhang123 三位联合发起，共同学习和进步，希望有更多的思想进行交流学习
