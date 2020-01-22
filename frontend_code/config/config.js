@@ -1,7 +1,10 @@
 import defaultSettings from './defaultSettings'; // https://umijs.org/config/
 
+// eslint-disable-next-line import/no-extraneous-dependencies
 import slash from 'slash2';
+
 import themePluginConfig from './themePluginConfig';
+
 const { pwa } = defaultSettings; // preview.pro.ant.design only do not use in your production ;
 // preview.pro.ant.design 专用环境变量，请不要在你的项目中使用它。
 
@@ -181,8 +184,8 @@ export default {
     '/server/api': {
       target: '',
       changeOrigin: true,
-      pathRewrite: { 
-        '^/server/api': '' 
+      pathRewrite: {
+        '^/server/api': '',
       },
     },
   },

@@ -195,19 +195,19 @@ export default () => (
 //         getMapEcharts(mapOption)
 //     }, [])
 //     return (
-        // <>
-        // <Row type="flex" className="style_layouts" justify="start">
-        //     <Col span={8}>
-        //     <LeftAssembly />
-        //     </Col>
-        //     <Col span={8}>
-        //     <div id="getMapEl" style={{width: 900,height:1200}}></div>
-        //     </Col>
-        //     <Col span={8}>
-        //     <RightAssembly />
-        //     </Col>
-        // </Row>
-        // </>
+// <>
+// <Row type="flex" className="style_layouts" justify="start">
+//     <Col span={8}>
+//     <LeftAssembly />
+//     </Col>
+//     <Col span={8}>
+//     <div id="getMapEl" style={{width: 900,height:1200}}></div>
+//     </Col>
+//     <Col span={8}>
+//     <RightAssembly />
+//     </Col>
+// </Row>
+// </>
 //     );
 // }
 
